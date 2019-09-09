@@ -1,2 +1,1 @@
-conflict
-resolve
+conflict2
